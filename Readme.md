@@ -1,4 +1,4 @@
-# @emperorschildren/ui-kitten-toasted
+# @emperorschildren/ui-kitten-toasty
 
 Toasts in the style of ui-kitten for modern react-native applications.
 
@@ -7,7 +7,7 @@ Toasts in the style of ui-kitten for modern react-native applications.
 ## Install
 
 ```
-yarn add -D @emperorschildren/ui-kitten-toasted
+yarn add -D @emperorschildren/ui-kitten-toasty
 ```
 
 ## Usage

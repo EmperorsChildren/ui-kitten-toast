@@ -1,9 +1,9 @@
 {
-  "name": "@emperorschildren/ui-kitten-toasted",
+  "name": "@emperorschildren/ui-kitten-toasty",
   "version": "4.20.69",
   "description": "Toasts with ui-kitten",
   "main": "index.js",
-  "repository": "https://github.com/EmperorsChildren/ui-kitten-toasted",
+  "repository": "https://github.com/EmperorsChildren/ui-kitten-toasty",
   "author": "Daniel Huth <daniel.huth1996@gmail.com>",
   "license": "MIT",
   "dependencies": {
