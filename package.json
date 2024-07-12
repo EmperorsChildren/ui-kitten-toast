@@ -1,9 +1,9 @@
 {
-  "name": "ui-kitten-toast",
-  "version": "0.0.2",
+  "name": "@emperorschildren/ui-kitten-toast",
+  "version": "0.0.3",
   "description": "Toasts with ui-kitten",
   "main": "index.js",
-  "repository": "https://github.com/agreon/ui-kitten-toast",
+  "repository": "https://github.com/EmperorsChildren/ui-kitten-toasted",
   "author": "Daniel Huth <daniel.huth1996@gmail.com>",
   "license": "MIT",
   "dependencies": {

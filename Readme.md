@@ -1,14 +1,13 @@
-# ui-kitten-toast
+# @emperorschildren/ui-kitten-toasted
 
 Toasts in the style of ui-kitten for modern react-native applications.
-
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
 ```
-yarn add ui-kitten-toast
+yarn add @emperorschildren/ui-kitten-toasted
 ```
 
 ## Usage
@@ -36,6 +35,5 @@ showToast({ status: 'danger', message: 'Some error :c' });
 
 - `status`: Any status that a ui-kitten `card` would accept.
 - `message`: `string` or `ReactNode`.
-
 
 **Be aware that this is a very early alpha. Feel free to contribute or suggest more features**
