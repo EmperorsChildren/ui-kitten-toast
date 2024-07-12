@@ -1,5 +1,5 @@
 {
-  "name": "@emperorschildren/ui-kitten-toast",
+  "name": "@emperorschildren/ui-kitten-toasted",
   "version": "1.0.0",
   "description": "Toasts with ui-kitten",
   "main": "index.js",
